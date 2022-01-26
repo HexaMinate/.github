@@ -24,11 +24,13 @@
 # Teams
 
 - Leaders
-  - G*V*R**L **KA
+  - ANONIM
 
 - Developer
-  - AZKADEV
-  - FUADEV
+  - [AZKADEV](https://github.com/azkadev)
+  - [FUADEV](https://github.com/)
 
 
-# Contact
+# Contact Or links account
+
+https://linktr.ee/hexaminate

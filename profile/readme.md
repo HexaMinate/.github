@@ -23,17 +23,14 @@
 # Teams
 
 - Leaders
-
   - G*V*R*** A*K* H*** P***** ****ZEUS
 
 - Customer Service
-
-  - AIRIN
+  - AIRIN
  
 - Developer
-
   - [AZKADEV](https://github.com/azkadev)
-  - [FUADEV](https://github.com/fuaddev)
+  - [FUADEV](https://github.com/fuaddev)
 
 # Contact Or links account
 

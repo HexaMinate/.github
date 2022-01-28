@@ -20,16 +20,16 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-
 # Teams
-
 - Leaders
-  - ANONIM
+  - G*V*R*** A*K* H*** P***** ****ZEUS
 
+- Customer Service
+  - AIRIN
+ 
 - Developer
-  - [AZKADEV](https://github.com/azkadev)
-  - [FUADEV](https://github.com/)
-
+  - [AZKADEV](https://github.com/azkadev)
+  - [FUADEV](https://github.com/fuaddev)
 
 # Contact Or links account
 

@@ -26,6 +26,7 @@ Terimakasih anda mau membaca ini, jika kalian ingin support kami kalian bisa lak
   2. Feed Back ( Kritik / saran / pujian / request tutorial).
   3. Donate Donasi berupa (uang digital / gadget untuk project).
   4. Share Info seputar tech ke contact kami.
+  5. Hire Team Developer Kami Untuk project kalian.
 
 ## Teams
 

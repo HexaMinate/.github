@@ -21,6 +21,10 @@
 </p>
 
 ## Support
+Terimakasih anda mau membaca ini, jika kalian ingin support kami kalian bisa lakukan sebagai berikut:
+  1. Follow Up Semua Social Media Kami.
+  2. Feed Back ( Kritik / saran / pujian / request tutorial).
+  3. Donate Donasi berupa (uang digital / gadget untuk project).
 
 ## Teams
 

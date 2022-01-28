@@ -37,3 +37,15 @@
 # Contact Or links account
 
 https://linktr.ee/hexaminate
+
+
+--
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/azkadev/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/azkadev/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com?user=hexaminate&theme=Javascript-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>

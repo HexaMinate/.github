@@ -42,6 +42,6 @@ Terimakasih anda mau membaca ini, jika kalian ingin support kami kalian bisa lak
 
 ## Contact Or links account
 
-https://linktr.ee/hexaminatete
+https://linktr.ee/hexaminate
 
 ![download-banner](https://user-images.githubusercontent.com/82513502/151788083-0fa16c54-80be-4e7d-9417-804864cb43c2.png)

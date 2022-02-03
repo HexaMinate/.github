@@ -37,8 +37,8 @@ Terimakasih anda mau membaca ini, jika kalian ingin support kami kalian bisa lak
   - AIRIN
  
 - Developer
-  - [AZKADEV](https://github.com/azkadev)
-  - [FUADEV](https://github.com/fuaddev)
+  - AZKADEV
+  - FUADEV
 
 ## Contact Or links account
 

@@ -28,13 +28,12 @@ Terimakasih anda mau membaca ini, jika kalian ingin support kami kalian bisa lak
   4. Share Info seputar tech ke contact kami.
   5. Hire Team Developer Kami Untuk project kalian.
 
-## Donate
-
-![20220326_134125](https://user-images.githubusercontent.com/82513502/160237496-c1f1bbbc-48f0-44e2-b28d-b396e80f099b.jpg)
-
-
 ## Contact Or links account
 
 https://linktr.ee/hexaminate
 
 [![download-banner](https://user-images.githubusercontent.com/82513502/151788083-0fa16c54-80be-4e7d-9417-804864cb43c2.png)](https://github.com/HexaMinate/.github/releases)
+
+## Donate
+
+![20220326_134125](https://user-images.githubusercontent.com/82513502/160237496-c1f1bbbc-48f0-44e2-b28d-b396e80f099b.jpg)

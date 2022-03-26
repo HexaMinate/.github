@@ -28,17 +28,10 @@ Terimakasih anda mau membaca ini, jika kalian ingin support kami kalian bisa lak
   4. Share Info seputar tech ke contact kami.
   5. Hire Team Developer Kami Untuk project kalian.
 
-## Teams
+## Donate
 
-- Leaders
-  - G*V*R*** A*K* H*** P***** ****ZEUS
+![20220326_134125](https://user-images.githubusercontent.com/82513502/160237496-c1f1bbbc-48f0-44e2-b28d-b396e80f099b.jpg)
 
-- Customer Service
-  - AIRIN
- 
-- Developer
-  - AZKADEV
-  - FUADEV
 
 ## Contact Or links account
 
